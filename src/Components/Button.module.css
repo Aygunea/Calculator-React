@@ -1,0 +1,10 @@
+.button{
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: beige;
+    border: 1px solid beige;
+}
+.button:hover{
+    background-color: white;
+}
